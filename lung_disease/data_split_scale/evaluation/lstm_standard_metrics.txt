@@ -1,0 +1,15 @@
+Model: lstm_standard
+Data Type: test
+Accuracy: 0.8370
+Precision:
+[0.        0.        0.8603352 0.        0.        0.       ]
+Recall:
+[0.         0.         0.96855346 0.         0.         0.        ]
+F1 Score: 0.7874
+Confusion Matrix:
+[[  0   0   3   0   0   0]
+ [  0   0   3   0   0   0]
+ [  0   0 154   0   3   2]
+ [  0   0   7   0   0   0]
+ [  0   0   7   0   0   0]
+ [  0   0   5   0   0   0]]

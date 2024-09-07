@@ -1,0 +1,15 @@
+Model: cnn_robust
+Data Type: test
+Accuracy: 0.8533
+Precision:
+[0.         0.         0.88135593 0.         0.33333333 0.        ]
+Recall:
+[0.         0.         0.98113208 0.         0.14285714 0.        ]
+F1 Score: 0.8100
+Confusion Matrix:
+[[  0   0   3   0   0   0]
+ [  0   0   3   0   0   0]
+ [  0   0 156   2   0   1]
+ [  0   0   5   0   2   0]
+ [  0   0   6   0   1   0]
+ [  0   0   4   1   0   0]]

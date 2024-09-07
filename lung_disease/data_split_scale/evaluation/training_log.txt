@@ -1,0 +1,541 @@
+2024-08-31 12:56:59,441 - INFO - Epoch 20: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 12:56:59,441 - INFO - Epoch 40: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 12:56:59,441 - INFO - Epoch 60: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 12:56:59,441 - INFO - Epoch 80: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 12:56:59,441 - INFO - Epoch 100: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 12:57:02,008 - ERROR - Error in cnn with standard transformer: 5 columns passed, passed data had 8 columns
+2024-08-31 13:02:16,020 - INFO - Epoch 20: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:02:16,020 - INFO - Epoch 40: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:02:16,020 - INFO - Epoch 60: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:02:16,020 - INFO - Epoch 80: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:02:16,020 - INFO - Epoch 100: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:02:18,073 - ERROR - Error in cnn with minmax transformer: 5 columns passed, passed data had 8 columns
+2024-08-31 13:13:24,354 - INFO - Epoch 20: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:13:24,354 - INFO - Epoch 40: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:13:24,354 - INFO - Epoch 60: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:13:24,354 - INFO - Epoch 80: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:13:24,354 - INFO - Epoch 100: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:13:26,497 - ERROR - Error in cnn with robust transformer: 5 columns passed, passed data had 8 columns
+2024-08-31 13:18:15,357 - INFO - Epoch 20: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:18:15,357 - INFO - Epoch 40: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:18:15,357 - INFO - Epoch 60: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:18:15,357 - INFO - Epoch 80: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:18:15,357 - INFO - Epoch 100: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:18:17,518 - ERROR - Error in cnn with normalize transformer: 5 columns passed, passed data had 8 columns
+2024-08-31 13:24:48,025 - INFO - Epoch 20: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:24:48,025 - INFO - Epoch 40: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:24:48,025 - INFO - Epoch 60: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:24:48,026 - INFO - Epoch 80: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:24:48,026 - INFO - Epoch 100: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:24:50,140 - ERROR - Error in lstm with standard transformer: 5 columns passed, passed data had 8 columns
+2024-08-31 13:27:49,268 - INFO - Epoch 20: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:27:49,268 - INFO - Epoch 40: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:27:49,268 - INFO - Epoch 60: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:27:49,268 - INFO - Epoch 80: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:27:49,268 - INFO - Epoch 100: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:27:51,359 - ERROR - Error in lstm with minmax transformer: 5 columns passed, passed data had 8 columns
+2024-08-31 13:32:00,541 - INFO - Epoch 20: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:32:00,541 - INFO - Epoch 40: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:32:00,542 - INFO - Epoch 60: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:32:00,542 - INFO - Epoch 80: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:32:00,542 - INFO - Epoch 100: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:32:02,584 - ERROR - Error in lstm with robust transformer: 5 columns passed, passed data had 8 columns
+2024-08-31 13:34:05,549 - INFO - Epoch 20: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:34:05,549 - INFO - Epoch 40: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:34:05,549 - INFO - Epoch 60: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:34:05,549 - INFO - Epoch 80: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:34:05,549 - INFO - Epoch 100: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 13:34:07,877 - ERROR - Error in lstm with normalize transformer: 5 columns passed, passed data had 8 columns
+2024-08-31 13:34:29,810 - ERROR - Error in gru with standard transformer: in user code:
+
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1160, in train_function  *
+        return step_function(self, iterator)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1146, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1135, in run_step  **
+        outputs = model.train_step(data)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 993, in train_step
+        y_pred = self(x, training=True)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\input_spec.py", line 295, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential_4" is incompatible with the layer: expected shape=(None, 413760, 1), found shape=(None, 1, 413760)
+
+2024-08-31 13:34:39,547 - ERROR - Error in gru with minmax transformer: in user code:
+
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1160, in train_function  *
+        return step_function(self, iterator)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1146, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1135, in run_step  **
+        outputs = model.train_step(data)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 993, in train_step
+        y_pred = self(x, training=True)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\input_spec.py", line 295, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential_5" is incompatible with the layer: expected shape=(None, 413760, 1), found shape=(None, 1, 413760)
+
+2024-08-31 13:34:47,096 - ERROR - Error in gru with robust transformer: in user code:
+
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1160, in train_function  *
+        return step_function(self, iterator)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1146, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1135, in run_step  **
+        outputs = model.train_step(data)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 993, in train_step
+        y_pred = self(x, training=True)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\input_spec.py", line 295, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential_6" is incompatible with the layer: expected shape=(None, 413760, 1), found shape=(None, 1, 413760)
+
+2024-08-31 13:34:54,498 - ERROR - Error in gru with normalize transformer: in user code:
+
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1160, in train_function  *
+        return step_function(self, iterator)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1146, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1135, in run_step  **
+        outputs = model.train_step(data)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 993, in train_step
+        y_pred = self(x, training=True)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\input_spec.py", line 295, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential_7" is incompatible with the layer: expected shape=(None, 413760, 1), found shape=(None, 1, 413760)
+
+2024-08-31 13:43:17,621 - ERROR - Error in gru with standard transformer: Graph execution error:
+
+Failed to call ThenRnnForward with model config: [rnn_mode, rnn_input_mode, rnn_direction_mode]: 3, 0, 0 , [num_layers, input_size, num_units, dir_count, max_seq_length, batch_size, cell_num_units]: [1, 1, 64, 1, 413760, 16, 0] 
+	 [[{{node CudnnRNN}}]]
+	 [[sequential_8/gru_8/PartitionedCall]] [Op:__inference_train_function_157174]
+2024-08-31 13:45:47,015 - ERROR - Error in gru with standard transformer: Graph execution error:
+
+Failed to call ThenRnnForward with model config: [rnn_mode, rnn_input_mode, rnn_direction_mode]: 3, 0, 0 , [num_layers, input_size, num_units, dir_count, max_seq_length, batch_size, cell_num_units]: [1, 1, 64, 1, 413760, 16, 0] 
+	 [[{{node CudnnRNN}}]]
+	 [[sequential/gru/PartitionedCall]] [Op:__inference_train_function_5672]
+2024-08-31 13:47:41,773 - ERROR - Error in gru with standard transformer: Graph execution error:
+
+Failed to call ThenRnnForward with model config: [rnn_mode, rnn_input_mode, rnn_direction_mode]: 3, 0, 0 , [num_layers, input_size, num_units, dir_count, max_seq_length, batch_size, cell_num_units]: [1, 1, 64, 1, 413760, 16, 0] 
+	 [[{{node CudnnRNN}}]]
+	 [[sequential/gru/PartitionedCall]] [Op:__inference_train_function_5672]
+2024-08-31 13:53:20,855 - WARNING - Layer gru_2 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:53:20,860 - WARNING - Layer gru_3 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:54:13,770 - WARNING - Layer gru will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:54:13,772 - WARNING - Layer gru_1 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:54:13,978 - ERROR - Error in gru with standard transformer: 'NoneType' object has no attribute 'compile'
+2024-08-31 13:54:21,203 - WARNING - Layer gru_2 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:54:21,206 - WARNING - Layer gru_3 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:54:21,336 - ERROR - Error in gru with minmax transformer: 'NoneType' object has no attribute 'compile'
+2024-08-31 13:54:26,650 - WARNING - Layer gru_4 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:54:26,652 - WARNING - Layer gru_5 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:54:26,796 - ERROR - Error in gru with robust transformer: 'NoneType' object has no attribute 'compile'
+2024-08-31 13:54:32,420 - WARNING - Layer gru_6 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:54:32,423 - WARNING - Layer gru_7 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:54:32,557 - ERROR - Error in gru with normalize transformer: 'NoneType' object has no attribute 'compile'
+2024-08-31 13:56:26,748 - WARNING - Layer gru_8 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:56:26,751 - WARNING - Layer gru_9 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:56:26,944 - ERROR - Error in gru with standard transformer: 'NoneType' object has no attribute 'compile'
+2024-08-31 13:56:34,425 - WARNING - Layer gru_10 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:56:34,428 - WARNING - Layer gru_11 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:56:34,563 - ERROR - Error in gru with minmax transformer: 'NoneType' object has no attribute 'compile'
+2024-08-31 13:56:40,864 - WARNING - Layer gru_12 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:56:40,867 - WARNING - Layer gru_13 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:56:40,997 - ERROR - Error in gru with robust transformer: 'NoneType' object has no attribute 'compile'
+2024-08-31 13:56:46,853 - WARNING - Layer gru_14 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:56:46,857 - WARNING - Layer gru_15 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:56:47,004 - ERROR - Error in gru with normalize transformer: 'NoneType' object has no attribute 'compile'
+2024-08-31 13:57:56,819 - WARNING - Layer gru_16 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:57:56,821 - WARNING - Layer gru_17 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:57:56,954 - ERROR - Error in gru with standard transformer: 'NoneType' object has no attribute 'compile'
+2024-08-31 13:58:04,363 - WARNING - Layer gru_18 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:58:04,365 - WARNING - Layer gru_19 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:58:04,496 - ERROR - Error in gru with minmax transformer: 'NoneType' object has no attribute 'compile'
+2024-08-31 13:58:09,967 - WARNING - Layer gru_20 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:58:09,969 - WARNING - Layer gru_21 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:58:10,108 - ERROR - Error in gru with robust transformer: 'NoneType' object has no attribute 'compile'
+2024-08-31 13:58:16,541 - WARNING - Layer gru_22 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:58:16,543 - WARNING - Layer gru_23 will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+2024-08-31 13:58:16,680 - ERROR - Error in gru with normalize transformer: 'NoneType' object has no attribute 'compile'
+2024-08-31 14:00:40,270 - ERROR - Error in gru with standard transformer: Graph execution error:
+
+Failed to call ThenRnnForward with model config: [rnn_mode, rnn_input_mode, rnn_direction_mode]: 3, 0, 0 , [num_layers, input_size, num_units, dir_count, max_seq_length, batch_size, cell_num_units]: [1, 1, 64, 1, 413760, 16, 0] 
+	 [[{{node CudnnRNN}}]]
+	 [[sequential_12/gru_24/PartitionedCall]] [Op:__inference_train_function_11048]
+2024-08-31 14:04:02,078 - ERROR - Error in gru with standard transformer: Graph execution error:
+
+Failed to call ThenRnnForward with model config: [rnn_mode, rnn_input_mode, rnn_direction_mode]: 3, 0, 0 , [num_layers, input_size, num_units, dir_count, max_seq_length, batch_size, cell_num_units]: [1, 1, 64, 1, 413760, 16, 0] 
+	 [[{{node CudnnRNN}}]]
+	 [[sequential/gru/PartitionedCall]] [Op:__inference_train_function_5672]
+2024-08-31 14:05:33,084 - ERROR - Error in cnn_lstm with standard transformer: Graph execution error:
+
+Failed to call ThenRnnForward with model config: [rnn_mode, rnn_input_mode, rnn_direction_mode]: 2, 0, 0 , [num_layers, input_size, num_units, dir_count, max_seq_length, batch_size, cell_num_units]: [1, 16, 64, 1, 206879, 16, 64] 
+	 [[{{node CudnnRNN}}]]
+	 [[sequential/bidirectional/forward_lstm/PartitionedCall]] [Op:__inference_train_function_5848]
+2024-08-31 14:19:24,418 - INFO - Epoch 20: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:19:24,457 - INFO - Epoch 40: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:19:24,457 - INFO - Epoch 60: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:19:24,457 - INFO - Epoch 80: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:19:24,457 - INFO - Epoch 100: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:19:30,909 - ERROR - Error in resnet with standard transformer: 5 columns passed, passed data had 8 columns
+2024-08-31 14:20:01,270 - ERROR - Error in resnet with minmax transformer: Graph execution error:
+
+Detected at node 'model/conv1d_4/Conv1D' defined at (most recent call last):
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\runpy.py", line 194, in _run_module_as_main
+      return _run_code(code, main_globals, None,
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\runpy.py", line 87, in _run_code
+      exec(code, run_globals)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel_launcher.py", line 18, in <module>
+      app.launch_new_instance()
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\traitlets\config\application.py", line 1075, in launch_instance
+      app.start()
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelapp.py", line 739, in start
+      self.io_loop.start()
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\tornado\platform\asyncio.py", line 205, in start
+      self.asyncio_loop.run_forever()
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\asyncio\base_events.py", line 570, in run_forever
+      self._run_once()
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\asyncio\base_events.py", line 1859, in _run_once
+      handle._run()
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+      self._context.run(self._callback, *self._args)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelbase.py", line 545, in dispatch_queue
+      await self.process_one()
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelbase.py", line 534, in process_one
+      await dispatch(*args)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelbase.py", line 437, in dispatch_shell
+      await result
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\ipkernel.py", line 362, in execute_request
+      await super().execute_request(stream, ident, parent)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelbase.py", line 778, in execute_request
+      reply_content = await reply_content
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\ipkernel.py", line 449, in do_execute
+      res = shell.run_cell(
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\zmqshell.py", line 549, in run_cell
+      return super().run_cell(*args, **kwargs)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3009, in run_cell
+      result = self._run_cell(
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3064, in _run_cell
+      result = runner(coro)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\async_helpers.py", line 129, in _pseudo_sync_runner
+      coro.send(None)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3269, in run_cell_async
+      has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3448, in run_ast_nodes
+      if await self.run_code(code, result, async_=asy):
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3508, in run_code
+      exec(code_obj, self.user_global_ns, self.user_ns)
+    File "C:\Users\ahamed\AppData\Local\Temp\ipykernel_18348\3400225126.py", line 49, in <module>
+      main(x,y_train,y_val,y_test,X_train)
+    File "C:\Users\ahamed\AppData\Local\Temp\ipykernel_18348\3400225126.py", line 40, in main
+      run_model_pipeline(x_train, y_train, x_val, y_val, x_test, y_test, model_name, input_shape, num_classes,name)
+    File "C:\Users\ahamed\AppData\Local\Temp\ipykernel_18348\39332561.py", line 166, in run_model_pipeline
+      history = model.fit(train_dataset, validation_data=val_dataset, epochs=50, callbacks=callbacks, verbose=2)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1564, in fit
+      tmp_logs = self.train_function(iterator)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1160, in train_function
+      return step_function(self, iterator)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1146, in step_function
+      outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1135, in run_step
+      outputs = model.train_step(data)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 993, in train_step
+      y_pred = self(x, training=True)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 557, in __call__
+      return super().__call__(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\base_layer.py", line 1097, in __call__
+      outputs = call_fn(inputs, *args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 96, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\functional.py", line 510, in call
+      return self._run_internal_graph(inputs, training=training, mask=mask)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\functional.py", line 667, in _run_internal_graph
+      outputs = node.layer(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\base_layer.py", line 1097, in __call__
+      outputs = call_fn(inputs, *args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 96, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\layers\convolutional\base_conv.py", line 283, in call
+      outputs = self.convolution_op(inputs, self.kernel)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\layers\convolutional\base_conv.py", line 255, in convolution_op
+      return tf.nn.convolution(
+Node: 'model/conv1d_4/Conv1D'
+OOM when allocating tensor with shape[16,1,206880,32] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc
+	 [[{{node model/conv1d_4/Conv1D}}]]
+Hint: If you want to see a list of allocated tensors when OOM happens, add report_tensor_allocations_upon_oom to RunOptions for current allocation info. This isn't available when running in Eager mode.
+ [Op:__inference_train_function_14967]
+2024-08-31 14:20:18,538 - ERROR - Error in resnet with robust transformer: in user code:
+
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1160, in train_function  *
+        return step_function(self, iterator)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1146, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1135, in run_step  **
+        outputs = model.train_step(data)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 997, in train_step
+        self.optimizer.minimize(loss, self.trainable_variables, tape=tape)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\optimizers\optimizer_v2\optimizer_v2.py", line 579, in minimize
+        return self.apply_gradients(grads_and_vars, name=name)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\optimizers\optimizer_v2\optimizer_v2.py", line 695, in apply_gradients
+        self._create_all_weights(var_list)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\optimizers\optimizer_v2\optimizer_v2.py", line 959, in _create_all_weights
+        self._create_slots(var_list)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\optimizers\optimizer_v2\adam.py", line 128, in _create_slots
+        self.add_slot(var, "v")
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\optimizers\optimizer_v2\optimizer_v2.py", line 1050, in add_slot
+        weight = tf.Variable(
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\initializers\initializers_v2.py", line 171, in __call__
+        return tf.zeros(shape, dtype)
+
+    ResourceExhaustedError: {{function_node __wrapped__Fill_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3310080,64] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:Fill]
+
+2024-08-31 14:20:34,281 - ERROR - Error in resnet with normalize transformer: {{function_node __wrapped__Mul_device_/job:localhost/replica:0/task:0/device:GPU:0}} failed to allocate memory [Op:Mul]
+2024-08-31 14:42:42,805 - INFO - Epoch 20: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:42:42,839 - INFO - Epoch 40: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:42:42,839 - INFO - Epoch 60: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:42:42,839 - INFO - Epoch 80: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:42:42,839 - INFO - Epoch 100: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:42:48,804 - ERROR - Error in resnet with minmax transformer: 5 columns passed, passed data had 8 columns
+2024-08-31 14:43:17,524 - ERROR - Error in resnet with robust transformer: Graph execution error:
+
+Detected at node 'model/conv1d_4/Conv1D' defined at (most recent call last):
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\runpy.py", line 194, in _run_module_as_main
+      return _run_code(code, main_globals, None,
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\runpy.py", line 87, in _run_code
+      exec(code, run_globals)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel_launcher.py", line 18, in <module>
+      app.launch_new_instance()
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\traitlets\config\application.py", line 1075, in launch_instance
+      app.start()
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelapp.py", line 739, in start
+      self.io_loop.start()
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\tornado\platform\asyncio.py", line 205, in start
+      self.asyncio_loop.run_forever()
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\asyncio\base_events.py", line 570, in run_forever
+      self._run_once()
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\asyncio\base_events.py", line 1859, in _run_once
+      handle._run()
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+      self._context.run(self._callback, *self._args)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelbase.py", line 545, in dispatch_queue
+      await self.process_one()
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelbase.py", line 534, in process_one
+      await dispatch(*args)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelbase.py", line 437, in dispatch_shell
+      await result
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\ipkernel.py", line 362, in execute_request
+      await super().execute_request(stream, ident, parent)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelbase.py", line 778, in execute_request
+      reply_content = await reply_content
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\ipkernel.py", line 449, in do_execute
+      res = shell.run_cell(
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\zmqshell.py", line 549, in run_cell
+      return super().run_cell(*args, **kwargs)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3009, in run_cell
+      result = self._run_cell(
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3064, in _run_cell
+      result = runner(coro)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\async_helpers.py", line 129, in _pseudo_sync_runner
+      coro.send(None)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3269, in run_cell_async
+      has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3448, in run_ast_nodes
+      if await self.run_code(code, result, async_=asy):
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3508, in run_code
+      exec(code_obj, self.user_global_ns, self.user_ns)
+    File "C:\Users\ahamed\AppData\Local\Temp\ipykernel_9820\3400225126.py", line 49, in <module>
+      main(x,y_train,y_val,y_test,X_train)
+    File "C:\Users\ahamed\AppData\Local\Temp\ipykernel_9820\3400225126.py", line 40, in main
+      run_model_pipeline(x_train, y_train, x_val, y_val, x_test, y_test, model_name, input_shape, num_classes,name)
+    File "C:\Users\ahamed\AppData\Local\Temp\ipykernel_9820\39332561.py", line 166, in run_model_pipeline
+      history = model.fit(train_dataset, validation_data=val_dataset, epochs=50, callbacks=callbacks, verbose=2)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1564, in fit
+      tmp_logs = self.train_function(iterator)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1160, in train_function
+      return step_function(self, iterator)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1146, in step_function
+      outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1135, in run_step
+      outputs = model.train_step(data)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 993, in train_step
+      y_pred = self(x, training=True)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 557, in __call__
+      return super().__call__(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\base_layer.py", line 1097, in __call__
+      outputs = call_fn(inputs, *args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 96, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\functional.py", line 510, in call
+      return self._run_internal_graph(inputs, training=training, mask=mask)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\functional.py", line 667, in _run_internal_graph
+      outputs = node.layer(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\base_layer.py", line 1097, in __call__
+      outputs = call_fn(inputs, *args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 96, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\layers\convolutional\base_conv.py", line 283, in call
+      outputs = self.convolution_op(inputs, self.kernel)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\layers\convolutional\base_conv.py", line 255, in convolution_op
+      return tf.nn.convolution(
+Node: 'model/conv1d_4/Conv1D'
+OOM when allocating tensor with shape[16,1,206880,32] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc
+	 [[{{node model/conv1d_4/Conv1D}}]]
+Hint: If you want to see a list of allocated tensors when OOM happens, add report_tensor_allocations_upon_oom to RunOptions for current allocation info. This isn't available when running in Eager mode.
+ [Op:__inference_train_function_15572]
+2024-08-31 14:43:34,848 - ERROR - Error in resnet with normalize transformer: in user code:
+
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1160, in train_function  *
+        return step_function(self, iterator)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1146, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1135, in run_step  **
+        outputs = model.train_step(data)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 997, in train_step
+        self.optimizer.minimize(loss, self.trainable_variables, tape=tape)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\optimizers\optimizer_v2\optimizer_v2.py", line 579, in minimize
+        return self.apply_gradients(grads_and_vars, name=name)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\optimizers\optimizer_v2\optimizer_v2.py", line 695, in apply_gradients
+        self._create_all_weights(var_list)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\optimizers\optimizer_v2\optimizer_v2.py", line 959, in _create_all_weights
+        self._create_slots(var_list)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\optimizers\optimizer_v2\adam.py", line 128, in _create_slots
+        self.add_slot(var, "v")
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\optimizers\optimizer_v2\optimizer_v2.py", line 1050, in add_slot
+        weight = tf.Variable(
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\initializers\initializers_v2.py", line 171, in __call__
+        return tf.zeros(shape, dtype)
+
+    ResourceExhaustedError: {{function_node __wrapped__Fill_device_/job:localhost/replica:0/task:0/device:GPU:0}} OOM when allocating tensor with shape[3310080,64] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:Fill]
+
+2024-08-31 14:59:27,908 - INFO - Epoch 20: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:59:27,953 - INFO - Epoch 40: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:59:27,953 - INFO - Epoch 60: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:59:27,953 - INFO - Epoch 80: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:59:27,953 - INFO - Epoch 100: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 14:59:33,890 - ERROR - Error in resnet with robust transformer: 5 columns passed, passed data had 8 columns
+2024-08-31 15:00:02,611 - ERROR - Error in resnet with normalize transformer: Graph execution error:
+
+Detected at node 'model/conv1d_4/Conv1D' defined at (most recent call last):
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\runpy.py", line 194, in _run_module_as_main
+      return _run_code(code, main_globals, None,
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\runpy.py", line 87, in _run_code
+      exec(code, run_globals)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel_launcher.py", line 18, in <module>
+      app.launch_new_instance()
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\traitlets\config\application.py", line 1075, in launch_instance
+      app.start()
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelapp.py", line 739, in start
+      self.io_loop.start()
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\tornado\platform\asyncio.py", line 205, in start
+      self.asyncio_loop.run_forever()
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\asyncio\base_events.py", line 570, in run_forever
+      self._run_once()
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\asyncio\base_events.py", line 1859, in _run_once
+      handle._run()
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+      self._context.run(self._callback, *self._args)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelbase.py", line 545, in dispatch_queue
+      await self.process_one()
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelbase.py", line 534, in process_one
+      await dispatch(*args)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelbase.py", line 437, in dispatch_shell
+      await result
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\ipkernel.py", line 362, in execute_request
+      await super().execute_request(stream, ident, parent)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\kernelbase.py", line 778, in execute_request
+      reply_content = await reply_content
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\ipkernel.py", line 449, in do_execute
+      res = shell.run_cell(
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\ipykernel\zmqshell.py", line 549, in run_cell
+      return super().run_cell(*args, **kwargs)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3009, in run_cell
+      result = self._run_cell(
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3064, in _run_cell
+      result = runner(coro)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\async_helpers.py", line 129, in _pseudo_sync_runner
+      coro.send(None)
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3269, in run_cell_async
+      has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3448, in run_ast_nodes
+      if await self.run_code(code, result, async_=asy):
+    File "C:\Users\ahamed\AppData\Roaming\Python\Python38\site-packages\IPython\core\interactiveshell.py", line 3508, in run_code
+      exec(code_obj, self.user_global_ns, self.user_ns)
+    File "C:\Users\ahamed\AppData\Local\Temp\ipykernel_19004\3400225126.py", line 49, in <module>
+      main(x,y_train,y_val,y_test,X_train)
+    File "C:\Users\ahamed\AppData\Local\Temp\ipykernel_19004\3400225126.py", line 40, in main
+      run_model_pipeline(x_train, y_train, x_val, y_val, x_test, y_test, model_name, input_shape, num_classes,name)
+    File "C:\Users\ahamed\AppData\Local\Temp\ipykernel_19004\39332561.py", line 166, in run_model_pipeline
+      history = model.fit(train_dataset, validation_data=val_dataset, epochs=50, callbacks=callbacks, verbose=2)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1564, in fit
+      tmp_logs = self.train_function(iterator)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1160, in train_function
+      return step_function(self, iterator)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1146, in step_function
+      outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 1135, in run_step
+      outputs = model.train_step(data)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 993, in train_step
+      y_pred = self(x, training=True)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\training.py", line 557, in __call__
+      return super().__call__(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\base_layer.py", line 1097, in __call__
+      outputs = call_fn(inputs, *args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 96, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\functional.py", line 510, in call
+      return self._run_internal_graph(inputs, training=training, mask=mask)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\functional.py", line 667, in _run_internal_graph
+      outputs = node.layer(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\engine\base_layer.py", line 1097, in __call__
+      outputs = call_fn(inputs, *args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\utils\traceback_utils.py", line 96, in error_handler
+      return fn(*args, **kwargs)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\layers\convolutional\base_conv.py", line 283, in call
+      outputs = self.convolution_op(inputs, self.kernel)
+    File "c:\Users\ahamed\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\layers\convolutional\base_conv.py", line 255, in convolution_op
+      return tf.nn.convolution(
+Node: 'model/conv1d_4/Conv1D'
+OOM when allocating tensor with shape[16,1,206880,32] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc
+	 [[{{node model/conv1d_4/Conv1D}}]]
+Hint: If you want to see a list of allocated tensors when OOM happens, add report_tensor_allocations_upon_oom to RunOptions for current allocation info. This isn't available when running in Eager mode.
+ [Op:__inference_train_function_16785]
+2024-08-31 15:12:39,046 - INFO - Epoch 20: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 15:12:39,083 - INFO - Epoch 40: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 15:12:39,083 - INFO - Epoch 60: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 15:12:39,083 - INFO - Epoch 80: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 15:12:39,083 - INFO - Epoch 100: CUDA device info - [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+2024-08-31 15:12:44,903 - ERROR - Error in resnet with normalize transformer: 5 columns passed, passed data had 8 columns
